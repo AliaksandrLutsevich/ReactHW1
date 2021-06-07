@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AliaksandrLutsevich/ReactHW1/issues"
   },
-  "homepage": "https://github.com/AliaksandrLutsevich/ReactHW1#readme"
+  "homepage": "https://github.com/AliaksandrLutsevich/ReactHW1#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
