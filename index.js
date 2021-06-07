@@ -69,6 +69,7 @@ const data1 = [
 
 
     // Fourth task
+        // Solution 1
     const defaultObj = {
         "age": 3,
         "name": "Curtis Greene",
@@ -76,5 +77,5 @@ const data1 = [
         }
 
     const {age, ...newObj} = defaultObj;
-    console.log(newObj);
+    const changedObj = newObj;
    
